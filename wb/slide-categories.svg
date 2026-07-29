@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif">
-<rect x="0" y="0" width="1280" height="640" fill="#0A0A0B"/><defs><radialGradient id="g44853" cx="50%" cy="50%" r="50%">
+<rect x="0" y="0" width="1280" height="640" fill="#0A0A0B"/><defs><radialGradient id="g58232" cx="50%" cy="50%" r="50%">
   <stop offset="0%" stop-color="#5E6AD2" stop-opacity="0.18"/>
   <stop offset="100%" stop-color="#5E6AD2" stop-opacity="0"/>
 </radialGradient>
-<ellipse cx="220" cy="150" rx="520" ry="520" fill="url(#g44853)"/><radialGradient id="g92878" cx="50%" cy="50%" r="50%">
+<ellipse cx="220" cy="150" rx="520" ry="520" fill="url(#g58232)"/><radialGradient id="g52833" cx="50%" cy="50%" r="50%">
   <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.12"/>
   <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
 </radialGradient>
-<ellipse cx="1080" cy="560" rx="460" ry="460" fill="url(#g92878)"/></defs>
+<ellipse cx="1080" cy="560" rx="460" ry="460" fill="url(#g52833)"/></defs>
 <text x="80" y="96" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="56" font-weight="800" fill="#FFFFFF" text-anchor="start">覆盖 9 大品类</text>
-<text x="80" y="140" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="24" font-weight="500" fill="#A1A1AA" text-anchor="start">188 款工具贯穿开发全流程——从写正则到画白板</text>
+<text x="80" y="140" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="24" font-weight="500" fill="#A1A1AA" text-anchor="start">198 款工具贯穿开发全流程——从写正则到画白板</text>
 <rect x="80.0" y="190" width="357.3333333333333" height="120" rx="12" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
 <rect x="80.0" y="190" width="6" height="120" rx="3" fill="#5E6AD2"/>
 <text x="108.0" y="240" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="26" font-weight="700" fill="#FFFFFF" text-anchor="start">编码解析</text>
@@ -55,5 +55,5 @@
 <text x="870.6666666666666" y="508" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="26" font-weight="700" fill="#FFFFFF" text-anchor="start">聚合</text>
 <text x="870.6666666666666" y="546" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start">nano-workbench </text>
 <text x="870.6666666666666" y="570" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start"> 一个标签页收纳全部</text>
-<text x="80" y="600" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="26" font-weight="500" fill="#71717A" text-anchor="start">一个标签页，收纳全部 188 款工具</text>
+<text x="80" y="600" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="26" font-weight="500" fill="#71717A" text-anchor="start">一个标签页，收纳全部 198 款工具</text>
 </svg>
