@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif">
+<rect x="0" y="0" width="1280" height="640" fill="#0A0A0B"/><defs><radialGradient id="g2443" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#5E6AD2" stop-opacity="0.18"/>
+  <stop offset="100%" stop-color="#5E6AD2" stop-opacity="0"/>
+</radialGradient>
+<ellipse cx="220" cy="150" rx="520" ry="520" fill="url(#g2443)"/><radialGradient id="g5427" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.12"/>
+  <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+</radialGradient>
+<ellipse cx="1080" cy="560" rx="460" ry="460" fill="url(#g5427)"/></defs>
+<text x="80" y="96" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="56" font-weight="800" fill="#FFFFFF" text-anchor="start">覆盖 9 大品类</text>
+<text x="80" y="140" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="24" font-weight="500" fill="#A1A1AA" text-anchor="start">168 款工具贯穿开发全流程——从写正则到画白板</text>
+<rect x="80.0" y="190" width="357.3333333333333" height="120" rx="12" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="80.0" y="190" width="6" height="120" rx="3" fill="#5E6AD2"/>
+<text x="108.0" y="240" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="26" font-weight="700" fill="#FFFFFF" text-anchor="start">编码解析</text>
+<text x="108.0" y="278" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start">RegexLab · JsonForge · MarkForge </text>
+<text x="108.0" y="302" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start"> HashKit · JwtForge · CaseForge</text>
+<rect x="461.3333333333333" y="190" width="357.3333333333333" height="120" rx="12" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="461.3333333333333" y="190" width="6" height="120" rx="3" fill="#10B981"/>
+<text x="489.3333333333333" y="240" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="26" font-weight="700" fill="#FFFFFF" text-anchor="start">格式转换</text>
+<text x="489.3333333333333" y="278" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start">UniConvert · SnapCompress </text>
+<text x="489.3333333333333" y="302" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start"> BaseForge</text>
+<rect x="842.6666666666666" y="190" width="357.3333333333333" height="120" rx="12" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="842.6666666666666" y="190" width="6" height="120" rx="3" fill="#22D3EE"/>
+<text x="870.6666666666666" y="240" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="26" font-weight="700" fill="#FFFFFF" text-anchor="start">可视化</text>
+<text x="870.6666666666666" y="278" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start">DrawForge · GraphForge · Chartify </text>
+<text x="870.6666666666666" y="302" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start"> PalettePro · MindForge</text>
+<rect x="80.0" y="324" width="357.3333333333333" height="120" rx="12" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="80.0" y="324" width="6" height="120" rx="3" fill="#F5A623"/>
+<text x="108.0" y="374" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="26" font-weight="700" fill="#FFFFFF" text-anchor="start">开发调试</text>
+<text x="108.0" y="412" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start">APIForge · RESTKit </text>
+<text x="108.0" y="436" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start"> CSSKit · CronForge</text>
+<rect x="461.3333333333333" y="324" width="357.3333333333333" height="120" rx="12" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="461.3333333333333" y="324" width="6" height="120" rx="3" fill="#A78BFA"/>
+<text x="489.3333333333333" y="374" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="26" font-weight="700" fill="#FFFFFF" text-anchor="start">数据</text>
+<text x="489.3333333333333" y="412" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start">DataForge · SQLForge（真 SQLite）</text>
+<text x="489.3333333333333" y="436" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start"> TableForge · YamlForge</text>
+<rect x="842.6666666666666" y="324" width="357.3333333333333" height="120" rx="12" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="842.6666666666666" y="324" width="6" height="120" rx="3" fill="#EF4444"/>
+<text x="870.6666666666666" y="374" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="26" font-weight="700" fill="#FFFFFF" text-anchor="start">AI</text>
+<text x="870.6666666666666" y="412" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start">ChatForge </text>
+<text x="870.6666666666666" y="436" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start"> 本地优先 BYOK 对话</text>
+<rect x="80.0" y="458" width="357.3333333333333" height="120" rx="12" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="80.0" y="458" width="6" height="120" rx="3" fill="#60A5FA"/>
+<text x="108.0" y="508" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="26" font-weight="700" fill="#FFFFFF" text-anchor="start">安全 · 效率</text>
+<text x="108.0" y="546" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start">VaultForge · FlowForge · FormForge </text>
+<text x="108.0" y="570" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start"> FocusForge · NanoBox · DeckForge</text>
+<rect x="461.3333333333333" y="458" width="357.3333333333333" height="120" rx="12" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="461.3333333333333" y="458" width="6" height="120" rx="3" fill="#2DD4BF"/>
+<text x="489.3333333333333" y="508" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="26" font-weight="700" fill="#FFFFFF" text-anchor="start">网络</text>
+<text x="489.3333333333333" y="546" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start">SubnetForge · UuidForge · UrlForge </text>
+<text x="489.3333333333333" y="570" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start"> StatusForge · BookForge · 离线子网与书签</text>
+<rect x="842.6666666666666" y="458" width="357.3333333333333" height="120" rx="12" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="842.6666666666666" y="458" width="6" height="120" rx="3" fill="#F472B6"/>
+<text x="870.6666666666666" y="508" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="26" font-weight="700" fill="#FFFFFF" text-anchor="start">聚合</text>
+<text x="870.6666666666666" y="546" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start">nano-workbench </text>
+<text x="870.6666666666666" y="570" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="15" font-weight="500" fill="#A1A1AA" text-anchor="start"> 一个标签页收纳全部</text>
+<text x="80" y="600" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="26" font-weight="500" fill="#71717A" text-anchor="start">一个标签页，收纳全部 168 款工具</text>
+</svg>

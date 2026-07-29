@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif">
+<rect x="0" y="0" width="1280" height="640" fill="#0A0A0B"/><defs><radialGradient id="g2443" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#5E6AD2" stop-opacity="0.18"/>
+  <stop offset="100%" stop-color="#5E6AD2" stop-opacity="0"/>
+</radialGradient>
+<ellipse cx="220" cy="150" rx="520" ry="520" fill="url(#g2443)"/><radialGradient id="g5427" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.12"/>
+  <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+</radialGradient>
+<ellipse cx="1080" cy="560" rx="460" ry="460" fill="url(#g5427)"/></defs>
+<text x="80" y="96" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="56" font-weight="800" fill="#FFFFFF" text-anchor="start">为什么是 nano-tools</text>
+<text x="80" y="140" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="24" font-weight="500" fill="#A1A1AA" text-anchor="start">一套可托付的本地优先工具哲学</text>
+<circle cx="102" cy="232" r="22" fill="#5E6AD2" fill-opacity="0.15"/>
+<text x="102" y="240" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="22" font-weight="800" fill="#5E6AD2" text-anchor="middle">1</text>
+<text x="144" y="228" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="start">单文件 · 零依赖</text>
+<text x="144" y="258" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="18" font-weight="500" fill="#A1A1AA" text-anchor="start">一个 HTML 搞定，下载即用，无构建、无安装</text>
+<line x1="80" y1="280" x2="1200" y2="280" stroke="#FFFFFF" stroke-opacity="0.06"/>
+<circle cx="102" cy="310" r="22" fill="#10B981" fill-opacity="0.15"/>
+<text x="102" y="318" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="22" font-weight="800" fill="#10B981" text-anchor="middle">2</text>
+<text x="144" y="306" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="start">离线优先</text>
+<text x="144" y="336" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="18" font-weight="500" fill="#A1A1AA" text-anchor="start">数据永不离机，隐私与安全由你掌控</text>
+<line x1="80" y1="358" x2="1200" y2="358" stroke="#FFFFFF" stroke-opacity="0.06"/>
+<circle cx="102" cy="388" r="22" fill="#22D3EE" fill-opacity="0.15"/>
+<text x="102" y="396" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="22" font-weight="800" fill="#22D3EE" text-anchor="middle">3</text>
+<text x="144" y="384" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="start">Linear 冷峻暗色</text>
+<text x="144" y="414" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="18" font-weight="500" fill="#A1A1AA" text-anchor="start">统一视觉语言，专注内容不喧宾夺主</text>
+<line x1="80" y1="436" x2="1200" y2="436" stroke="#FFFFFF" stroke-opacity="0.06"/>
+<circle cx="102" cy="466" r="22" fill="#F5A623" fill-opacity="0.15"/>
+<text x="102" y="474" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="22" font-weight="800" fill="#F5A623" text-anchor="middle">4</text>
+<text x="144" y="462" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="start">中英双语</text>
+<text x="144" y="492" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="18" font-weight="500" fill="#A1A1AA" text-anchor="start">全球开发者开箱即用，文案双轨</text>
+<line x1="80" y1="514" x2="1200" y2="514" stroke="#FFFFFF" stroke-opacity="0.06"/>
+<circle cx="102" cy="544" r="22" fill="#A78BFA" fill-opacity="0.15"/>
+<text x="102" y="552" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="22" font-weight="800" fill="#A78BFA" text-anchor="middle">5</text>
+<text x="144" y="540" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="28" font-weight="700" fill="#FFFFFF" text-anchor="start">开源免费</text>
+<text x="144" y="570" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="18" font-weight="500" fill="#A1A1AA" text-anchor="start">MIT 协议，随意 fork、改、再分发</text>
+<text x="80" y="600" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="26" font-weight="500" fill="#71717A" text-anchor="start">github.com/wangzifan396-wzf</text>
+</svg>

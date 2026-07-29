@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 640" width="1280" height="640" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif">
+<rect x="0" y="0" width="1280" height="640" fill="#0A0A0B"/><defs><radialGradient id="g2443" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#5E6AD2" stop-opacity="0.18"/>
+  <stop offset="100%" stop-color="#5E6AD2" stop-opacity="0"/>
+</radialGradient>
+<ellipse cx="220" cy="150" rx="520" ry="520" fill="url(#g2443)"/><radialGradient id="g5427" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#A78BFA" stop-opacity="0.12"/>
+  <stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/>
+</radialGradient>
+<ellipse cx="1080" cy="560" rx="460" ry="460" fill="url(#g5427)"/></defs>
+<radialGradient id="g91730" cx="50%" cy="50%" r="50%">
+  <stop offset="0%" stop-color="#5E6AD2" stop-opacity="0.18"/>
+  <stop offset="100%" stop-color="#5E6AD2" stop-opacity="0"/>
+</radialGradient>
+<ellipse cx="640" cy="250" rx="540" ry="540" fill="url(#g91730)"/>
+<text x="640.0" y="250" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="60" font-weight="800" fill="#FFFFFF" text-anchor="middle">在 GitHub 上 Star &amp; Fork</text>
+<text x="640.0" y="320" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="34" font-weight="700" fill="#5E6AD2" text-anchor="middle" letter-spacing="2">wangzifan396-wzf</text>
+<rect x="252.0" y="400" width="240" height="110" rx="14" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<text x="372.0" y="462" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="48" font-weight="800" fill="#FFFFFF" text-anchor="middle">169</text>
+<text x="372.0" y="490" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="20" font-weight="500" fill="#A1A1AA" text-anchor="middle">工具</text>
+<rect x="520.0" y="400" width="240" height="110" rx="14" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<text x="640.0" y="462" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="48" font-weight="800" fill="#FFFFFF" text-anchor="middle">170</text>
+<text x="640.0" y="490" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="20" font-weight="500" fill="#A1A1AA" text-anchor="middle">仓库</text>
+<rect x="788.0" y="400" width="240" height="110" rx="14" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<text x="908.0" y="462" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="48" font-weight="800" fill="#FFFFFF" text-anchor="middle">0</text>
+<text x="908.0" y="490" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="20" font-weight="500" fill="#A1A1AA" text-anchor="middle">依赖</text>
+<text x="640.0" y="580" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC','Segoe UI',sans-serif" font-size="24" font-weight="500" fill="#71717A" text-anchor="middle">开源 · 免费 · 本地优先 —— 立刻试试看</text>
+</svg>
