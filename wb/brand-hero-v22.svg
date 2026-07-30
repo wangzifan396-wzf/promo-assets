@@ -1,0 +1,920 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2560 1280" width="2560" height="1280">
+<rect x="0" y="0" width="2560" height="1280" fill="#0A0A0B"/>
+<radialGradient id="g46494" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#5E6AD2" stop-opacity="0.16"/><stop offset="100%" stop-color="#5E6AD2" stop-opacity="0"/></radialGradient><ellipse cx="360" cy="260" rx="720" ry="720" fill="url(#g46494)"/>
+<radialGradient id="g64569" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#A78BFA" stop-opacity="0.1"/><stop offset="100%" stop-color="#A78BFA" stop-opacity="0"/></radialGradient><ellipse cx="2200" cy="1080" rx="640" ry="640" fill="url(#g64569)"/>
+<rect x="80" y="96" width="560" height="68" rx="34" fill="#5E6AD2" fill-opacity="0.14" stroke="#5E6AD2" stroke-opacity="0.5"/>
+<text x="120" y="142" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="38" font-weight="700" fill="#5E6AD2" text-anchor="start" letter-spacing="3">228 工具 · 持续生长</text>
+<text x="80" y="330" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="260" font-weight="800" letter-spacing="1"><tspan fill="#FFFFFF">nano</tspan><tspan fill="#5E6AD2">tools</tspan></text>
+<rect x="80" y="355" width="768" height="10" rx="5" fill="#5E6AD2" fill-opacity="0.6"/>
+<text x="80" y="425" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="56" font-weight="500" fill="#A1A1AA" text-anchor="start">228 款单文件工具 · 离线优先 · 零依赖 · 数据永不离机</text>
+<text x="380.0" y="560" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="130" font-weight="800" fill="#FFFFFF" text-anchor="middle">229</text>
+<text x="380.0" y="630" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="46" font-weight="500" fill="#A1A1AA" text-anchor="middle">工具</text>
+<text x="980.0" y="560" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="130" font-weight="800" fill="#FFFFFF" text-anchor="middle">230</text>
+<text x="980.0" y="630" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="46" font-weight="500" fill="#A1A1AA" text-anchor="middle">仓库</text>
+<text x="1580.0" y="560" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="130" font-weight="800" fill="#FFFFFF" text-anchor="middle">0</text>
+<text x="1580.0" y="630" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="46" font-weight="500" fill="#A1A1AA" text-anchor="middle">依赖</text>
+<text x="2180.0" y="560" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="130" font-weight="800" fill="#FFFFFF" text-anchor="middle">180</text>
+<text x="2180.0" y="630" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="46" font-weight="500" fill="#A1A1AA" text-anchor="middle">旗舰</text>
+<text x="80" y="720" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="56" font-weight="800" fill="#FFFFFF" text-anchor="start">一百八十旗舰工具</text>
+<rect x="80.0" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="80.0" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="114.0" cy="794" r="11" fill="#22D3EE"/>
+<text x="136.0" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">DrawForge</text>
+<text x="114.0" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">可视化</text>
+<rect x="133.6" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="133.6" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="167.6" cy="794" r="11" fill="#22D3EE"/>
+<text x="189.6" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">GraphForge</text>
+<text x="167.6" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">可视化</text>
+<rect x="187.3" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="187.3" y="748" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="221.3" cy="794" r="11" fill="#5E6AD2"/>
+<text x="243.3" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">APIForge</text>
+<text x="221.3" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="240.9" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="240.9" y="748" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="274.9" cy="794" r="11" fill="#5E6AD2"/>
+<text x="296.9" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">ChatForge</text>
+<text x="274.9" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">AI 效率</text>
+<rect x="294.6" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="294.6" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="328.6" cy="794" r="11" fill="#22D3EE"/>
+<text x="350.6" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SQLForge</text>
+<text x="328.6" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据工具</text>
+<rect x="348.2" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="348.2" y="748" width="39.6" height="6" rx="3" fill="#10B981"/>
+<circle cx="382.2" cy="794" r="11" fill="#10B981"/>
+<text x="404.2" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">DeckForge</text>
+<text x="382.2" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#10B981" text-anchor="start">效率工具</text>
+<rect x="401.9" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="401.9" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="435.9" cy="794" r="11" fill="#22D3EE"/>
+<text x="457.9" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">QRForge</text>
+<text x="435.9" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">编码工具</text>
+<rect x="455.5" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="455.5" y="748" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="489.5" cy="794" r="11" fill="#F5A623"/>
+<text x="511.5" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">VaultForge</text>
+<text x="489.5" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">安全工具</text>
+<rect x="509.2" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="509.2" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="543.2" cy="794" r="11" fill="#22D3EE"/>
+<text x="565.2" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">MindForge</text>
+<text x="543.2" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">可视化</text>
+<rect x="562.8" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="562.8" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="596.8" cy="794" r="11" fill="#22D3EE"/>
+<text x="618.8" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SnipForge</text>
+<text x="596.8" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">效率</text>
+<rect x="616.4" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="616.4" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="650.4" cy="794" r="11" fill="#22D3EE"/>
+<text x="672.4" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">PlanForge</text>
+<text x="650.4" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">效率</text>
+<rect x="670.1" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="670.1" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="704.1" cy="794" r="11" fill="#22D3EE"/>
+<text x="726.1" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">FontForge</text>
+<text x="704.1" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">设计工具</text>
+<rect x="723.7" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="723.7" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="757.7" cy="794" r="11" fill="#22D3EE"/>
+<text x="779.7" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">ImageForge</text>
+<text x="757.7" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">设计工具</text>
+<rect x="777.4" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="777.4" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="811.4" cy="794" r="11" fill="#22D3EE"/>
+<text x="833.4" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">AudioForge</text>
+<text x="811.4" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">媒体工具</text>
+<rect x="831.0" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="831.0" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="865.0" cy="794" r="11" fill="#22D3EE"/>
+<text x="887.0" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">A11yForge</text>
+<text x="865.0" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">开发工具</text>
+<rect x="884.7" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="884.7" y="748" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="918.7" cy="794" r="11" fill="#5E6AD2"/>
+<text x="940.7" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">PromptForge</text>
+<text x="918.7" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">AI 效率</text>
+<rect x="938.3" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="938.3" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="972.3" cy="794" r="11" fill="#22D3EE"/>
+<text x="994.3" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">PDFForge</text>
+<text x="972.3" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">图像与媒体</text>
+<rect x="992.0" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="992.0" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1026.0" cy="794" r="11" fill="#22D3EE"/>
+<text x="1048.0" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">TableForge</text>
+<text x="1026.0" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据工具</text>
+<rect x="1045.6" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1045.6" y="748" width="39.6" height="6" rx="3" fill="#10B981"/>
+<circle cx="1079.6" cy="794" r="11" fill="#10B981"/>
+<text x="1101.6" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">CVForge</text>
+<text x="1079.6" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#10B981" text-anchor="start">效率工具</text>
+<rect x="1099.2" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1099.2" y="748" width="39.6" height="6" rx="3" fill="#10B981"/>
+<circle cx="1133.2" cy="794" r="11" fill="#10B981"/>
+<text x="1155.2" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">KanbanForge</text>
+<text x="1133.2" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#10B981" text-anchor="start">效率工具</text>
+<rect x="1152.9" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1152.9" y="748" width="39.6" height="6" rx="3" fill="#10B981"/>
+<circle cx="1186.9" cy="794" r="11" fill="#10B981"/>
+<text x="1208.9" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">InvoiceForge</text>
+<text x="1186.9" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#10B981" text-anchor="start">效率工具</text>
+<rect x="1206.5" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1206.5" y="748" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1240.5" cy="794" r="11" fill="#F5A623"/>
+<text x="1262.5" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">UuidForge</text>
+<text x="1240.5" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="1260.2" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1260.2" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1294.2" cy="794" r="11" fill="#22D3EE"/>
+<text x="1316.2" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SubnetForge</text>
+<text x="1294.2" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">网络</text>
+<rect x="1313.8" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1313.8" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1347.8" cy="794" r="11" fill="#22D3EE"/>
+<text x="1369.8" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">UrlForge</text>
+<text x="1347.8" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">网络</text>
+<rect x="1367.5" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1367.5" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1401.5" cy="794" r="11" fill="#22D3EE"/>
+<text x="1423.5" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">YamlForge</text>
+<text x="1401.5" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据工具</text>
+<rect x="1421.1" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1421.1" y="748" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1455.1" cy="794" r="11" fill="#F5A623"/>
+<text x="1477.1" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">AuthForge</text>
+<text x="1455.1" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="1474.8" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1474.8" y="748" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1508.8" cy="794" r="11" fill="#F5A623"/>
+<text x="1530.8" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">CryptoForge</text>
+<text x="1508.8" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="1528.4" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1528.4" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1562.4" cy="794" r="11" fill="#22D3EE"/>
+<text x="1584.4" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">BarcodeForge</text>
+<text x="1562.4" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">设计创意</text>
+<rect x="1582.0" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1582.0" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1616.0" cy="794" r="11" fill="#22D3EE"/>
+<text x="1638.0" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">CsvForge</text>
+<text x="1616.0" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据工具</text>
+<rect x="1635.7" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1635.7" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1669.7" cy="794" r="11" fill="#22D3EE"/>
+<text x="1691.7" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">CipherForge</text>
+<text x="1669.7" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">安全</text>
+<rect x="1689.3" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1689.3" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1723.3" cy="794" r="11" fill="#22D3EE"/>
+<text x="1745.3" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">AsciiForge</text>
+<text x="1723.3" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">文本</text>
+<rect x="1743.0" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1743.0" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1777.0" cy="794" r="11" fill="#22D3EE"/>
+<text x="1799.0" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">TypeForge</text>
+<text x="1777.0" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">开发</text>
+<rect x="1796.6" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1796.6" y="748" width="39.6" height="6" rx="3" fill="#10B981"/>
+<circle cx="1830.6" cy="794" r="11" fill="#10B981"/>
+<text x="1852.6" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">DiffForge</text>
+<text x="1830.6" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#10B981" text-anchor="start">文本处理</text>
+<rect x="1850.3" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1850.3" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1884.3" cy="794" r="11" fill="#22D3EE"/>
+<text x="1906.3" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">ShotForge</text>
+<text x="1884.3" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">开发</text>
+<rect x="1903.9" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1903.9" y="748" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1937.9" cy="794" r="11" fill="#F5A623"/>
+<text x="1959.9" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">TotpForge</text>
+<text x="1937.9" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="1957.6" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1957.6" y="748" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1991.6" cy="794" r="11" fill="#F5A623"/>
+<text x="2013.6" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">HexForge</text>
+<text x="1991.6" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="2011.2" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2011.2" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="2045.2" cy="794" r="11" fill="#22D3EE"/>
+<text x="2067.2" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">BookForge</text>
+<text x="2045.2" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">网络</text>
+<rect x="2064.8" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2064.8" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="2098.8" cy="794" r="11" fill="#22D3EE"/>
+<text x="2120.8" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">StatusForge</text>
+<text x="2098.8" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">网络</text>
+<rect x="2118.5" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2118.5" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="2152.5" cy="794" r="11" fill="#22D3EE"/>
+<text x="2174.5" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">EmojiForge</text>
+<text x="2152.5" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">文本</text>
+<rect x="2172.1" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2172.1" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="2206.1" cy="794" r="11" fill="#22D3EE"/>
+<text x="2228.1" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">WordForge</text>
+<text x="2206.1" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">文本</text>
+<rect x="2225.8" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2225.8" y="748" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="2259.8" cy="794" r="11" fill="#5E6AD2"/>
+<text x="2281.8" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">StructForge</text>
+<text x="2259.8" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="2279.4" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2279.4" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="2313.4" cy="794" r="11" fill="#22D3EE"/>
+<text x="2335.4" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SlugForge</text>
+<text x="2313.4" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">文本</text>
+<rect x="2333.1" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2333.1" y="748" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="2367.1" cy="794" r="11" fill="#5E6AD2"/>
+<text x="2389.1" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">GlobForge</text>
+<text x="2367.1" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="2386.7" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2386.7" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="2420.7" cy="794" r="11" fill="#22D3EE"/>
+<text x="2442.7" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">RomanForge</text>
+<text x="2420.7" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">文本</text>
+<rect x="2440.4" y="748" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2440.4" y="748" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="2474.4" cy="794" r="11" fill="#22D3EE"/>
+<text x="2496.4" y="804" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">TempForge</text>
+<text x="2474.4" y="836" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">文本</text>
+<rect x="80.0" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="80.0" y="866" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="114.0" cy="912" r="11" fill="#5E6AD2"/>
+<text x="136.0" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">MathForge</text>
+<text x="114.0" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="133.6" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="133.6" y="866" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="167.6" cy="912" r="11" fill="#5E6AD2"/>
+<text x="189.6" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">MimeForge</text>
+<text x="167.6" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="187.3" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="187.3" y="866" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="221.3" cy="912" r="11" fill="#22D3EE"/>
+<text x="243.3" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">MorseForge</text>
+<text x="221.3" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">文本</text>
+<rect x="240.9" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="240.9" y="866" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="274.9" cy="912" r="11" fill="#5E6AD2"/>
+<text x="296.9" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">KeyForge</text>
+<text x="274.9" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="294.6" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="294.6" y="866" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="328.6" cy="912" r="11" fill="#5E6AD2"/>
+<text x="350.6" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">LuhnForge</text>
+<text x="328.6" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="348.2" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="348.2" y="866" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="382.2" cy="912" r="11" fill="#22D3EE"/>
+<text x="404.2" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">DiagramForge</text>
+<text x="382.2" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">可视化</text>
+<rect x="401.9" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="401.9" y="866" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="435.9" cy="912" r="11" fill="#5E6AD2"/>
+<text x="457.9" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">CodeForge</text>
+<text x="435.9" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="455.5" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="455.5" y="866" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="489.5" cy="912" r="11" fill="#22D3EE"/>
+<text x="511.5" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">PixelForge</text>
+<text x="489.5" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">图像工具</text>
+<rect x="509.2" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="509.2" y="866" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="543.2" cy="912" r="11" fill="#22D3EE"/>
+<text x="565.2" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">GIFForge</text>
+<text x="543.2" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">图像工具</text>
+<rect x="562.8" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="562.8" y="866" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="596.8" cy="912" r="11" fill="#22D3EE"/>
+<text x="618.8" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">MeshForge</text>
+<text x="596.8" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">图像工具</text>
+<rect x="616.4" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="616.4" y="866" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="650.4" cy="912" r="11" fill="#5E6AD2"/>
+<text x="672.4" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">RegexForge</text>
+<text x="650.4" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="670.1" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="670.1" y="866" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="704.1" cy="912" r="11" fill="#22D3EE"/>
+<text x="726.1" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">WhiteboardForge</text>
+<text x="704.1" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">设计创意</text>
+<rect x="723.7" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="723.7" y="866" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="757.7" cy="912" r="11" fill="#5E6AD2"/>
+<text x="779.7" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SchemaForge</text>
+<text x="757.7" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="777.4" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="777.4" y="866" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="811.4" cy="912" r="11" fill="#22D3EE"/>
+<text x="833.4" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">ChartForge</text>
+<text x="811.4" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据工具</text>
+<rect x="831.0" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="831.0" y="866" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="865.0" cy="912" r="11" fill="#5E6AD2"/>
+<text x="887.0" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">BeautifyForge</text>
+<text x="865.0" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="884.7" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="884.7" y="866" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="918.7" cy="912" r="11" fill="#22D3EE"/>
+<text x="940.7" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SheetForge</text>
+<text x="918.7" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据工具</text>
+<rect x="938.3" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="938.3" y="866" width="39.6" height="6" rx="3" fill="#10B981"/>
+<circle cx="972.3" cy="912" r="11" fill="#10B981"/>
+<text x="994.3" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">TypingForge</text>
+<text x="972.3" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#10B981" text-anchor="start">效率工具</text>
+<rect x="992.0" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="992.0" y="866" width="39.6" height="6" rx="3" fill="#10B981"/>
+<circle cx="1026.0" cy="912" r="11" fill="#10B981"/>
+<text x="1048.0" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">DateForge</text>
+<text x="1026.0" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#10B981" text-anchor="start">效率工具</text>
+<rect x="1045.6" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1045.6" y="866" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="1079.6" cy="912" r="11" fill="#5E6AD2"/>
+<text x="1101.6" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SemverForge</text>
+<text x="1079.6" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="1099.2" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1099.2" y="866" width="39.6" height="6" rx="3" fill="#10B981"/>
+<circle cx="1133.2" cy="912" r="11" fill="#10B981"/>
+<text x="1155.2" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">HabitForge</text>
+<text x="1133.2" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#10B981" text-anchor="start">效率工具</text>
+<rect x="1152.9" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1152.9" y="866" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1186.9" cy="912" r="11" fill="#22D3EE"/>
+<text x="1208.9" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">JsonPathForge</text>
+<text x="1186.9" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据工具</text>
+<rect x="1206.5" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1206.5" y="866" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="1240.5" cy="912" r="11" fill="#5E6AD2"/>
+<text x="1262.5" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">NginxForge</text>
+<text x="1240.5" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="1260.2" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1260.2" y="866" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1294.2" cy="912" r="11" fill="#22D3EE"/>
+<text x="1316.2" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">ColorBlindForge</text>
+<text x="1294.2" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">设计工具</text>
+<rect x="1313.8" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1313.8" y="866" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="1347.8" cy="912" r="11" fill="#5E6AD2"/>
+<text x="1369.8" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">CronForge</text>
+<text x="1347.8" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="1367.5" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1367.5" y="866" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1401.5" cy="912" r="11" fill="#F5A623"/>
+<text x="1423.5" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">JwtForge</text>
+<text x="1401.5" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="1421.1" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1421.1" y="866" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="1455.1" cy="912" r="11" fill="#5E6AD2"/>
+<text x="1477.1" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SnowflakeForge</text>
+<text x="1455.1" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="1474.8" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1474.8" y="866" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1508.8" cy="912" r="11" fill="#F5A623"/>
+<text x="1530.8" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">PunyForge</text>
+<text x="1508.8" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="1528.4" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1528.4" y="866" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="1562.4" cy="912" r="11" fill="#5E6AD2"/>
+<text x="1584.4" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">ChangelogForge</text>
+<text x="1562.4" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="1582.0" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1582.0" y="866" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1616.0" cy="912" r="11" fill="#F5A623"/>
+<text x="1638.0" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">ULIDForge</text>
+<text x="1616.0" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="1635.7" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1635.7" y="866" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1669.7" cy="912" r="11" fill="#F5A623"/>
+<text x="1691.7" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">PasswordForge</text>
+<text x="1669.7" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">安全工具</text>
+<rect x="1689.3" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1689.3" y="866" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1723.3" cy="912" r="11" fill="#F5A623"/>
+<text x="1745.3" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">NumeralForge</text>
+<text x="1723.3" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">实用计算</text>
+<rect x="1743.0" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1743.0" y="866" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1777.0" cy="912" r="11" fill="#22D3EE"/>
+<text x="1799.0" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SparkForge</text>
+<text x="1777.0" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">可视化</text>
+<rect x="1796.6" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1796.6" y="866" width="39.6" height="6" rx="3" fill="#10B981"/>
+<circle cx="1830.6" cy="912" r="11" fill="#10B981"/>
+<text x="1852.6" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">FigletForge</text>
+<text x="1830.6" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#10B981" text-anchor="start">文本处理</text>
+<rect x="1850.3" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1850.3" y="866" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1884.3" cy="912" r="11" fill="#F5A623"/>
+<text x="1906.3" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">HtmlEntityForge</text>
+<text x="1884.3" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="1903.9" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1903.9" y="866" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="1937.9" cy="912" r="11" fill="#5E6AD2"/>
+<text x="1959.9" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">UtmForge</text>
+<text x="1937.9" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="1957.6" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1957.6" y="866" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1991.6" cy="912" r="11" fill="#F5A623"/>
+<text x="2013.6" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">InterestForge</text>
+<text x="1991.6" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">实用计算</text>
+<rect x="2011.2" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2011.2" y="866" width="39.6" height="6" rx="3" fill="#10B981"/>
+<circle cx="2045.2" cy="912" r="11" fill="#10B981"/>
+<text x="2067.2" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">MailForge</text>
+<text x="2045.2" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#10B981" text-anchor="start">文本处理</text>
+<rect x="2064.8" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2064.8" y="866" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="2098.8" cy="912" r="11" fill="#F5A623"/>
+<text x="2120.8" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">HashForge</text>
+<text x="2098.8" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="2118.5" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2118.5" y="866" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="2152.5" cy="912" r="11" fill="#5E6AD2"/>
+<text x="2174.5" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">BackoffForge</text>
+<text x="2152.5" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="2172.1" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2172.1" y="866" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="2206.1" cy="912" r="11" fill="#F5A623"/>
+<text x="2228.1" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">UnitForge</text>
+<text x="2206.1" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">实用计算</text>
+<rect x="2225.8" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2225.8" y="866" width="39.6" height="6" rx="3" fill="#10B981"/>
+<circle cx="2259.8" cy="912" r="11" fill="#10B981"/>
+<text x="2281.8" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">ReadForge</text>
+<text x="2259.8" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#10B981" text-anchor="start">文本处理</text>
+<rect x="2279.4" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2279.4" y="866" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="2313.4" cy="912" r="11" fill="#5E6AD2"/>
+<text x="2335.4" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">RateForge</text>
+<text x="2313.4" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="2333.1" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2333.1" y="866" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="2367.1" cy="912" r="11" fill="#22D3EE"/>
+<text x="2389.1" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">BloomForge</text>
+<text x="2367.1" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="2386.7" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2386.7" y="866" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="2420.7" cy="912" r="11" fill="#5E6AD2"/>
+<text x="2442.7" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">HashRingForge</text>
+<text x="2420.7" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="2440.4" y="866" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2440.4" y="866" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="2474.4" cy="912" r="11" fill="#F5A623"/>
+<text x="2496.4" y="922" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">LzwForge</text>
+<text x="2474.4" y="954" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="80.0" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="80.0" y="984" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="114.0" cy="1030" r="11" fill="#F5A623"/>
+<text x="136.0" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">VectorForge</text>
+<text x="114.0" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">实用计算</text>
+<rect x="133.6" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="133.6" y="984" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="167.6" cy="1030" r="11" fill="#5E6AD2"/>
+<text x="189.6" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">TopoForge</text>
+<text x="167.6" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="187.3" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="187.3" y="984" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="221.3" cy="1030" r="11" fill="#5E6AD2"/>
+<text x="243.3" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">FuzzyForge</text>
+<text x="221.3" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="240.9" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="240.9" y="984" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="274.9" cy="1030" r="11" fill="#22D3EE"/>
+<text x="296.9" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">PivotForge</text>
+<text x="274.9" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据工具</text>
+<rect x="294.6" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="294.6" y="984" width="39.6" height="6" rx="3" fill="#10B981"/>
+<circle cx="328.6" cy="1030" r="11" fill="#10B981"/>
+<text x="350.6" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">MarkdownForge</text>
+<text x="328.6" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#10B981" text-anchor="start">文本处理</text>
+<rect x="348.2" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="348.2" y="984" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="382.2" cy="1030" r="11" fill="#F5A623"/>
+<text x="404.2" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">PercentileForge</text>
+<text x="382.2" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">实用计算</text>
+<rect x="401.9" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="401.9" y="984" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="435.9" cy="1030" r="11" fill="#F5A623"/>
+<text x="457.9" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">HmacForge</text>
+<text x="435.9" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="455.5" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="455.5" y="984" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="489.5" cy="1030" r="11" fill="#22D3EE"/>
+<text x="511.5" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">MerkleForge</text>
+<text x="489.5" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="509.2" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="509.2" y="984" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="543.2" cy="1030" r="11" fill="#F5A623"/>
+<text x="565.2" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">GeoForge</text>
+<text x="543.2" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">实用计算</text>
+<rect x="562.8" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="562.8" y="984" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="596.8" cy="1030" r="11" fill="#22D3EE"/>
+<text x="618.8" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">CuckooForge</text>
+<text x="596.8" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="616.4" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="616.4" y="984" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="650.4" cy="1030" r="11" fill="#F5A623"/>
+<text x="672.4" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">TokenForge</text>
+<text x="650.4" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">实用计算</text>
+<rect x="670.1" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="670.1" y="984" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="704.1" cy="1030" r="11" fill="#F5A623"/>
+<text x="726.1" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SecretForge</text>
+<text x="704.1" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="723.7" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="723.7" y="984" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="757.7" cy="1030" r="11" fill="#22D3EE"/>
+<text x="779.7" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">HllForge</text>
+<text x="757.7" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="777.4" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="777.4" y="984" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="811.4" cy="1030" r="11" fill="#22D3EE"/>
+<text x="833.4" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SketchForge</text>
+<text x="811.4" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="831.0" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="831.0" y="984" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="865.0" cy="1030" r="11" fill="#22D3EE"/>
+<text x="887.0" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">TrieForge</text>
+<text x="865.0" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="884.7" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="884.7" y="984" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="918.7" cy="1030" r="11" fill="#22D3EE"/>
+<text x="940.7" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">LruForge</text>
+<text x="918.7" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="938.3" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="938.3" y="984" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="972.3" cy="1030" r="11" fill="#22D3EE"/>
+<text x="994.3" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">UnionForge</text>
+<text x="972.3" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="992.0" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="992.0" y="984" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1026.0" cy="1030" r="11" fill="#22D3EE"/>
+<text x="1048.0" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">BitsetForge</text>
+<text x="1026.0" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="1045.6" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1045.6" y="984" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="1079.6" cy="1030" r="11" fill="#5E6AD2"/>
+<text x="1101.6" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">BreakerForge</text>
+<text x="1079.6" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="1099.2" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1099.2" y="984" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="1133.2" cy="1030" r="11" fill="#5E6AD2"/>
+<text x="1155.2" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">ArgForge</text>
+<text x="1133.2" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="1152.9" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1152.9" y="984" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1186.9" cy="1030" r="11" fill="#F5A623"/>
+<text x="1208.9" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">HuffmanForge</text>
+<text x="1186.9" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="1206.5" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1206.5" y="984" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1240.5" cy="1030" r="11" fill="#F5A623"/>
+<text x="1262.5" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">CrcForge</text>
+<text x="1240.5" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="1260.2" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1260.2" y="984" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1294.2" cy="1030" r="11" fill="#F5A623"/>
+<text x="1316.2" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">Base58Forge</text>
+<text x="1294.2" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="1313.8" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1313.8" y="984" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1347.8" cy="1030" r="11" fill="#F5A623"/>
+<text x="1369.8" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">MatrixForge</text>
+<text x="1347.8" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">实用计算</text>
+<rect x="1367.5" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1367.5" y="984" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1401.5" cy="1030" r="11" fill="#22D3EE"/>
+<text x="1423.5" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">TomlForge</text>
+<text x="1401.5" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据工具</text>
+<rect x="1421.1" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1421.1" y="984" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1455.1" cy="1030" r="11" fill="#22D3EE"/>
+<text x="1477.1" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">HeapForge</text>
+<text x="1455.1" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="1474.8" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1474.8" y="984" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1508.8" cy="1030" r="11" fill="#22D3EE"/>
+<text x="1530.8" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">DijkstraForge</text>
+<text x="1508.8" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="1528.4" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1528.4" y="984" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1562.4" cy="1030" r="11" fill="#22D3EE"/>
+<text x="1584.4" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">AhoForge</text>
+<text x="1562.4" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="1582.0" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1582.0" y="984" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="1616.0" cy="1030" r="11" fill="#5E6AD2"/>
+<text x="1638.0" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">QsForge</text>
+<text x="1616.0" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="1635.7" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1635.7" y="984" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1669.7" cy="1030" r="11" fill="#22D3EE"/>
+<text x="1691.7" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">IniForge</text>
+<text x="1669.7" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据工具</text>
+<rect x="1689.3" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1689.3" y="984" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1723.3" cy="1030" r="11" fill="#F5A623"/>
+<text x="1745.3" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">Sha3Forge</text>
+<text x="1723.3" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="1743.0" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1743.0" y="984" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1777.0" cy="1030" r="11" fill="#F5A623"/>
+<text x="1799.0" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">Base64Forge</text>
+<text x="1777.0" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="1796.6" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1796.6" y="984" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1830.6" cy="1030" r="11" fill="#22D3EE"/>
+<text x="1852.6" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">MsgpackForge</text>
+<text x="1830.6" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据工具</text>
+<rect x="1850.3" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1850.3" y="984" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1884.3" cy="1030" r="11" fill="#F5A623"/>
+<text x="1906.3" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">PrngForge</text>
+<text x="1884.3" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">实用计算</text>
+<rect x="1903.9" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1903.9" y="984" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1937.9" cy="1030" r="11" fill="#22D3EE"/>
+<text x="1959.9" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">KmpForge</text>
+<text x="1937.9" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="1957.6" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1957.6" y="984" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1991.6" cy="1030" r="11" fill="#22D3EE"/>
+<text x="2013.6" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">TarjanForge</text>
+<text x="1991.6" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="2011.2" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2011.2" y="984" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="2045.2" cy="1030" r="11" fill="#5E6AD2"/>
+<text x="2067.2" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">ExprForge</text>
+<text x="2045.2" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="2064.8" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2064.8" y="984" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="2098.8" cy="1030" r="11" fill="#22D3EE"/>
+<text x="2120.8" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">FenwickForge</text>
+<text x="2098.8" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="2118.5" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2118.5" y="984" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="2152.5" cy="1030" r="11" fill="#F5A623"/>
+<text x="2174.5" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">XxhashForge</text>
+<text x="2152.5" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="2172.1" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2172.1" y="984" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="2206.1" cy="1030" r="11" fill="#F5A623"/>
+<text x="2228.1" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">LinearForge</text>
+<text x="2206.1" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">实用计算</text>
+<rect x="2225.8" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2225.8" y="984" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="2259.8" cy="1030" r="11" fill="#F5A623"/>
+<text x="2281.8" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">MurmurForge</text>
+<text x="2259.8" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="2279.4" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2279.4" y="984" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="2313.4" cy="1030" r="11" fill="#F5A623"/>
+<text x="2335.4" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">Base32Forge</text>
+<text x="2313.4" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="2333.1" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2333.1" y="984" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="2367.1" cy="1030" r="11" fill="#F5A623"/>
+<text x="2389.1" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">VarintForge</text>
+<text x="2367.1" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="2386.7" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2386.7" y="984" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="2420.7" cy="1030" r="11" fill="#F5A623"/>
+<text x="2442.7" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">GeohashForge</text>
+<text x="2420.7" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">实用计算</text>
+<rect x="2440.4" y="984" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2440.4" y="984" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="2474.4" cy="1030" r="11" fill="#5E6AD2"/>
+<text x="2496.4" y="1040" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">BenchForge</text>
+<text x="2474.4" y="1072" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="80.0" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="80.0" y="1102" width="39.6" height="6" rx="3" fill="#10B981"/>
+<circle cx="114.0" cy="1148" r="11" fill="#10B981"/>
+<text x="136.0" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">DistForge</text>
+<text x="114.0" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#10B981" text-anchor="start">文本处理</text>
+<rect x="133.6" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="133.6" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="167.6" cy="1148" r="11" fill="#22D3EE"/>
+<text x="189.6" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">MinhashForge</text>
+<text x="167.6" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="187.3" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="187.3" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="221.3" cy="1148" r="11" fill="#22D3EE"/>
+<text x="243.3" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SimhashForge</text>
+<text x="221.3" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="240.9" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="240.9" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="274.9" cy="1148" r="11" fill="#22D3EE"/>
+<text x="296.9" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">BktreeForge</text>
+<text x="274.9" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="294.6" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="294.6" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="328.6" cy="1148" r="11" fill="#22D3EE"/>
+<text x="350.6" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SkipForge</text>
+<text x="328.6" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="348.2" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="348.2" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="382.2" cy="1148" r="11" fill="#22D3EE"/>
+<text x="404.2" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">AstarForge</text>
+<text x="382.2" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="401.9" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="401.9" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="435.9" cy="1148" r="11" fill="#22D3EE"/>
+<text x="457.9" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SegmentForge</text>
+<text x="435.9" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="455.5" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="455.5" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="489.5" cy="1148" r="11" fill="#22D3EE"/>
+<text x="511.5" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">AvlForge</text>
+<text x="489.5" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="509.2" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="509.2" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="543.2" cy="1148" r="11" fill="#22D3EE"/>
+<text x="565.2" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">RabinForge</text>
+<text x="543.2" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="562.8" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="562.8" y="1102" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="596.8" cy="1148" r="11" fill="#F5A623"/>
+<text x="618.8" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">IntervalForge</text>
+<text x="596.8" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">实用计算</text>
+<rect x="616.4" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="616.4" y="1102" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="650.4" cy="1148" r="11" fill="#F5A623"/>
+<text x="672.4" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">CombForge</text>
+<text x="650.4" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">实用计算</text>
+<rect x="670.1" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="670.1" y="1102" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="704.1" cy="1148" r="11" fill="#F5A623"/>
+<text x="726.1" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">EloForge</text>
+<text x="704.1" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">实用计算</text>
+<rect x="723.7" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="723.7" y="1102" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="757.7" cy="1148" r="11" fill="#F5A623"/>
+<text x="779.7" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">Base85Forge</text>
+<text x="757.7" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="777.4" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="777.4" y="1102" width="39.6" height="6" rx="3" fill="#10B981"/>
+<circle cx="811.4" cy="1148" r="11" fill="#10B981"/>
+<text x="833.4" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SoundexForge</text>
+<text x="811.4" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#10B981" text-anchor="start">文本处理</text>
+<rect x="831.0" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="831.0" y="1102" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="865.0" cy="1148" r="11" fill="#5E6AD2"/>
+<text x="887.0" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">StateForge</text>
+<text x="865.0" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="884.7" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="884.7" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="918.7" cy="1148" r="11" fill="#22D3EE"/>
+<text x="940.7" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">MindMapForge</text>
+<text x="918.7" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">可视化</text>
+<rect x="938.3" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="938.3" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="972.3" cy="1148" r="11" fill="#22D3EE"/>
+<text x="994.3" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">WordCloudForge</text>
+<text x="972.3" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">可视化</text>
+<rect x="992.0" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="992.0" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1026.0" cy="1148" r="11" fill="#22D3EE"/>
+<text x="1048.0" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SequenceForge</text>
+<text x="1026.0" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">可视化</text>
+<rect x="1045.6" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1045.6" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1079.6" cy="1148" r="11" fill="#22D3EE"/>
+<text x="1101.6" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">GanttForge</text>
+<text x="1079.6" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">可视化</text>
+<rect x="1099.2" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1099.2" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1133.2" cy="1148" r="11" fill="#22D3EE"/>
+<text x="1155.2" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">LifeForge</text>
+<text x="1133.2" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">可视化</text>
+<rect x="1152.9" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1152.9" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1186.9" cy="1148" r="11" fill="#22D3EE"/>
+<text x="1208.9" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SortForge</text>
+<text x="1186.9" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="1206.5" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1206.5" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1240.5" cy="1148" r="11" fill="#22D3EE"/>
+<text x="1262.5" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">MazeForge</text>
+<text x="1240.5" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="1260.2" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1260.2" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1294.2" cy="1148" r="11" fill="#22D3EE"/>
+<text x="1316.2" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">NqueenForge</text>
+<text x="1294.2" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="1313.8" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1313.8" y="1102" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1347.8" cy="1148" r="11" fill="#F5A623"/>
+<text x="1369.8" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">StegForge</text>
+<text x="1347.8" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">编码加密</text>
+<rect x="1367.5" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1367.5" y="1102" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1401.5" cy="1148" r="11" fill="#F5A623"/>
+<text x="1423.5" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">FractalForge</text>
+<text x="1401.5" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">实用计算</text>
+<rect x="1421.1" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1421.1" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1455.1" cy="1148" r="11" fill="#22D3EE"/>
+<text x="1477.1" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">TuringForge</text>
+<text x="1455.1" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">可视化</text>
+<rect x="1474.8" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1474.8" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1508.8" cy="1148" r="11" fill="#22D3EE"/>
+<text x="1530.8" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">LsystemForge</text>
+<text x="1508.8" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">可视化</text>
+<rect x="1528.4" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1528.4" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1562.4" cy="1148" r="11" fill="#22D3EE"/>
+<text x="1584.4" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SudokuForge</text>
+<text x="1562.4" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="1582.0" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1582.0" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1616.0" cy="1148" r="11" fill="#22D3EE"/>
+<text x="1638.0" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">GomokuForge</text>
+<text x="1616.0" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="1635.7" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1635.7" y="1102" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="1669.7" cy="1148" r="11" fill="#F5A623"/>
+<text x="1691.7" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">NoiseForge</text>
+<text x="1669.7" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">实用计算</text>
+<rect x="1689.3" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1689.3" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1723.3" cy="1148" r="11" fill="#22D3EE"/>
+<text x="1745.3" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">BezierForge</text>
+<text x="1723.3" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">设计工具</text>
+<rect x="1743.0" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1743.0" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1777.0" cy="1148" r="11" fill="#22D3EE"/>
+<text x="1799.0" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">JsonGraphForge</text>
+<text x="1777.0" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">可视化</text>
+<rect x="1796.6" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1796.6" y="1102" width="39.6" height="6" rx="3" fill="#5E6AD2"/>
+<circle cx="1830.6" cy="1148" r="11" fill="#5E6AD2"/>
+<text x="1852.6" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">RegexRailForge</text>
+<text x="1830.6" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#5E6AD2" text-anchor="start">开发辅助</text>
+<rect x="1850.3" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1850.3" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1884.3" cy="1148" r="11" fill="#22D3EE"/>
+<text x="1906.3" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">TetrisForge</text>
+<text x="1884.3" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="1903.9" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1903.9" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1937.9" cy="1148" r="11" fill="#22D3EE"/>
+<text x="1959.9" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SnakeForge</text>
+<text x="1937.9" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">数据结构</text>
+<rect x="1957.6" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="1957.6" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="1991.6" cy="1148" r="11" fill="#22D3EE"/>
+<text x="2013.6" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">TokenizeForge</text>
+<text x="1991.6" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">可视化</text>
+<rect x="2011.2" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2011.2" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="2045.2" cy="1148" r="11" fill="#22D3EE"/>
+<text x="2067.2" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">BoidsForge</text>
+<text x="2045.2" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">可视化</text>
+<rect x="2064.8" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2064.8" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="2098.8" cy="1148" r="11" fill="#22D3EE"/>
+<text x="2120.8" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">RaycastForge</text>
+<text x="2098.8" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">可视化</text>
+<rect x="2118.5" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2118.5" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="2152.5" cy="1148" r="11" fill="#22D3EE"/>
+<text x="2174.5" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">PendulumForge</text>
+<text x="2152.5" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">可视化</text>
+<rect x="2172.1" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2172.1" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="2206.1" cy="1148" r="11" fill="#22D3EE"/>
+<text x="2228.1" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">QuadtreeForge</text>
+<text x="2206.1" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">图像工具</text>
+<rect x="2225.8" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2225.8" y="1102" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="2259.8" cy="1148" r="11" fill="#F5A623"/>
+<text x="2281.8" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">TspForge</text>
+<text x="2259.8" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">实用计算</text>
+<rect x="2279.4" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2279.4" y="1102" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="2313.4" cy="1148" r="11" fill="#F5A623"/>
+<text x="2335.4" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">KnapsackForge</text>
+<text x="2313.4" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">实用计算</text>
+<rect x="2333.1" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2333.1" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="2367.1" cy="1148" r="11" fill="#22D3EE"/>
+<text x="2389.1" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">DitherForge</text>
+<text x="2367.1" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">图像工具</text>
+<rect x="2386.7" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2386.7" y="1102" width="39.6" height="6" rx="3" fill="#22D3EE"/>
+<circle cx="2420.7" cy="1148" r="11" fill="#22D3EE"/>
+<text x="2442.7" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">SpiroForge</text>
+<text x="2420.7" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#22D3EE" text-anchor="start">可视化</text>
+<rect x="2440.4" y="1102" width="39.6" height="104" rx="16" fill="#141417" stroke="#FFFFFF" stroke-opacity="0.08"/>
+<rect x="2440.4" y="1102" width="39.6" height="6" rx="3" fill="#F5A623"/>
+<circle cx="2474.4" cy="1148" r="11" fill="#F5A623"/>
+<text x="2496.4" y="1158" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="start">ChordForge</text>
+<text x="2474.4" y="1190" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="22" font-weight="600" fill="#F5A623" text-anchor="start">实用计算</text>
+<text x="80" y="1230" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="42" font-weight="500" fill="#71717A" text-anchor="start">github.com/wangzifan396-wzf</text>
+</svg>
